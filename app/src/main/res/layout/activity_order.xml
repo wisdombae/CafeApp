@@ -23,7 +23,7 @@
                 android:id="@+id/textView_viewOrdernum"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="주문번호:"
+                android:text="주문번호: "
                 android:layout_gravity="center_vertical"
                 android:textSize="20sp" />
 
